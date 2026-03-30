@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f3460,60:16213e,100:533483&height=280&section=header&text=The%20Developer%20Universe%20Hub&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=🌌%20Your%20All-in-One%20Galaxy%20of%20Developer%20Knowledge%20%7C%205000%2B%20Curated%20Resources&descAlignY=60&descSize=16&animation=fadeIn&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f3460,60:16213e,100:533483&height=280&section=header&text=The%20Developer%20Universe%20Hub&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=🌌%20Your%20All-in-One%20Galaxy%20of%20Developer%20Knowledge%20%7C%2010000%2B%20Curated%20Resources&descAlignY=60&descSize=16&animation=fadeIn&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -31,8 +31,8 @@
 <br/>
 
 <!-- BADGE ROW 1 -->
-[![Resources](https://img.shields.io/badge/📦%20Resources-5000%2B-238636?style=for-the-badge&labelColor=0d1117)](https://github.com/augustdev290/the-developer-universe-hub)
-[![Collections](https://img.shields.io/badge/📂%20Collections-4-1f6feb?style=for-the-badge&labelColor=0d1117)](./resources/)
+[![Resources](https://img.shields.io/badge/📦%20Resources-10000%2B-238636?style=for-the-badge&labelColor=0d1117)](https://github.com/augustdev290/the-developer-universe-hub)
+[![Collections](https://img.shields.io/badge/📂%20Collections-7-1f6feb?style=for-the-badge&labelColor=0d1117)](./resources/)
 [![Stars](https://img.shields.io/github/stars/augustdev290/the-developer-universe-hub?style=for-the-badge&logo=github&logoColor=white&color=f0e040&labelColor=0d1117)](https://github.com/augustdev290/the-developer-universe-hub/stargazers)
 [![Forks](https://img.shields.io/github/forks/augustdev290/the-developer-universe-hub?style=for-the-badge&logo=git&logoColor=white&color=da3633&labelColor=0d1117)](https://github.com/augustdev290/the-developer-universe-hub/forks)
 
@@ -86,11 +86,11 @@
 <tbody>
 <tr>
 <td>🌌 <b>All-in-One Galaxy</b></td>
-<td>6 giant resource collections covering every developer domain — no more hunting across 50 tabs</td>
+<td>7 giant resource collections covering every developer domain — no more hunting across 50 tabs</td>
 </tr>
 <tr>
 <td>🆓 <b>Free-First Philosophy</b></td>
-<td>70%+ of resources are completely free — quality knowledge for everyone, regardless of budget</td>
+<td>90%+ of resources are completely free — quality knowledge for everyone, regardless of budget</td>
 </tr>
 <tr>
 <td>🧭 <b>Structured Roadmaps</b></td>
@@ -130,11 +130,11 @@
 </tr>
 <tr>
 <td align="center"><b>10,000+</b></td>
-<td align="center"><b>6</b></td>
+<td align="center"><b>7</b></td>
+<td align="center"><b>40+</b></td>
+<td align="center"><b>80%+</b></td>
 <td align="center"><b>30+</b></td>
-<td align="center"><b>70%+</b></td>
-<td align="center"><b>15+</b></td>
-<td align="center"><b>20+</b></td>
+<td align="center"><b>40+</b></td>
 </tr>
 </table>
 
@@ -208,7 +208,14 @@
 <td>All Levels · Desktop Developers</td>
 <td align="center"><a href="./resources/desktop-developer.md">📖 Browse →</a></td>
 </tr>
-
+<tr>
+<td>🔌 <b>API Developer</b></td>
+<td>everything an API developer needs from learning REST, GraphQL, and gRPC fundamentals to building secure, scalable, and well-documented production-grade APIs.</td>
+<td align="center"><b>1,500+</b></td>
+<td align="center"><b>22</b></td>
+<td>All Levels · API Developers</td>
+<td align="center"><a href="./resources/api-developer.md">📖 Browse →</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -234,6 +241,7 @@
 | 🤖 I want to use AI in my workflow | Web Developer | [Start Here →](./resources/web-developer.md) |
 | 📱 I want to build mobile apps | Mobile Developer | [Start Here →](./resources/mobile-developer.md) |
 | 💻 I want to build Desktop apps | Desktop Developer | [Start Here →](./resources/desktop-developer.md) |
+| 🔌 I want to design APIs & backend services | API Developer | [Start Here →](./resources/api-developer.md) |
 </div>
 
 ---
@@ -282,6 +290,7 @@ Full-Stack Res.        Web Dev Res.           SE Resources
     └── 💻  software-developer.md         ← 1,500+ General Developer resources
     └── 📱  mobile-developer.md         ← 1,500+ Mobile Developer resources
     └── 💻  desktop-developer.md         ← 1,500+ Desktop Developer resources
+    └── 🔌  api-developer.md         ← 1,500+ API Developer resources
 ```
 
 > 💡 **Adding resources?** Each file in `/resources/` follows the same table format.

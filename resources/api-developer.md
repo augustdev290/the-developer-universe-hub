@@ -32,7 +32,7 @@
 [![Contributors](https://img.shields.io/badge/Contributors-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge&labelColor=0D1117)](LICENSE)
-[![Last Updated](https://img.shields.io/badge/Updated-2025-00D9FF?style=for-the-badge&labelColor=0D1117)](https://github.com)
+[![Last Updated](https://img.shields.io/badge/Updated-2026-00D9FF?style=for-the-badge&labelColor=0D1117)](https://github.com)
 
 <br/>
 
@@ -1224,6 +1224,6 @@ MIT License — Free to use, share, and contribute.
 
 ---
 
-*Last updated: 2025 · 1500+ resources · 22 categories · Community-curated*
+*Last updated: 2026 · 1500+ resources · 22 categories · Community-curated*
 
 </div>
