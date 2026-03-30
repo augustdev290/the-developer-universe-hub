@@ -32,7 +32,7 @@
 
 <!-- BADGE ROW 1 -->
 [![Resources](https://img.shields.io/badge/📦%20Resources-10000%2B-238636?style=for-the-badge&labelColor=0d1117)](https://github.com/augustdev290/the-developer-universe-hub)
-[![Collections](https://img.shields.io/badge/📂%20Collections-7-1f6feb?style=for-the-badge&labelColor=0d1117)](./resources/)
+[![Collections](https://img.shields.io/badge/📂%20Collections-8-1f6feb?style=for-the-badge&labelColor=0d1117)](./resources/)
 [![Stars](https://img.shields.io/github/stars/augustdev290/the-developer-universe-hub?style=for-the-badge&logo=github&logoColor=white&color=f0e040&labelColor=0d1117)](https://github.com/augustdev290/the-developer-universe-hub/stargazers)
 [![Forks](https://img.shields.io/github/forks/augustdev290/the-developer-universe-hub?style=for-the-badge&logo=git&logoColor=white&color=da3633&labelColor=0d1117)](https://github.com/augustdev290/the-developer-universe-hub/forks)
 
@@ -86,7 +86,7 @@
 <tbody>
 <tr>
 <td>🌌 <b>All-in-One Galaxy</b></td>
-<td>7 giant resource collections covering every developer domain — no more hunting across 50 tabs</td>
+<td>8 giant resource collections covering every developer domain — no more hunting across 50 tabs</td>
 </tr>
 <tr>
 <td>🆓 <b>Free-First Philosophy</b></td>
@@ -130,7 +130,7 @@
 </tr>
 <tr>
 <td align="center"><b>10,000+</b></td>
-<td align="center"><b>7</b></td>
+<td align="center"><b>8</b></td>
 <td align="center"><b>40+</b></td>
 <td align="center"><b>80%+</b></td>
 <td align="center"><b>30+</b></td>
@@ -216,6 +216,15 @@
 <td>All Levels · API Developers</td>
 <td align="center"><a href="./resources/api-developer.md">📖 Browse →</a></td>
 </tr>
+<tr>
+<td>🎮 <b>Game Developer</b></td>
+<td>everything a game developer needs from learning game design fundamentals, game engines (Unity, Unreal), graphics, physics, AI, multiplayer systems, and publishing production-ready games.</td>
+<td align="center"><b>1,500+</b></td>
+<td align="center"><b>23</b></td>
+<td>All Levels · Game Developers</td>
+<td align="center"><a href="./resources/game-developer.md">📖 Browse →</a></td>
+</tr>
+
 </tbody>
 </table>
 
@@ -242,6 +251,7 @@
 | 📱 I want to build mobile apps | Mobile Developer | [Start Here →](./resources/mobile-developer.md) |
 | 💻 I want to build Desktop apps | Desktop Developer | [Start Here →](./resources/desktop-developer.md) |
 | 🔌 I want to design APIs & backend services | API Developer | [Start Here →](./resources/api-developer.md) |
+| 🎮 I want to build games | Game Developer | [Start Here →](./resources/game-developer.md) |
 </div>
 
 ---
@@ -291,6 +301,7 @@ Full-Stack Res.        Web Dev Res.           SE Resources
     └── 📱  mobile-developer.md         ← 1,500+ Mobile Developer resources
     └── 💻  desktop-developer.md         ← 1,500+ Desktop Developer resources
     └── 🔌  api-developer.md         ← 1,500+ API Developer resources
+    └── 🎮  game-developer.md         ← 1,500+ Game Developer resources
 ```
 
 > 💡 **Adding resources?** Each file in `/resources/` follows the same table format.
