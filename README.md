@@ -240,6 +240,14 @@
 <td>All Levels · AI Engineers · ML Developers</td>
 <td align="center"><a href="./resources/ai-engineer.md">📖 Browse →</a></td>
 </tr>
+<tr>
+<td>⛓️ <b>Blockchain Developer</b></td>
+<td>everything a blockchain developer needs from smart contracts, Web3 development, DeFi, NFTs, Solidity, Ethereum, Layer 2 scaling, cryptography fundamentals, and building decentralized applications (dApps) and blockchain infrastructure.</td>
+<td align="center"><b>1,200+</b></td>
+<td align="center"><b>22</b></td>
+<td>All Levels · Blockchain Devs · Web3 Engineers</td>
+<td align="center"><a href="./resources/blockchain-developer.md">📖 Browse →</a></td>
+</tr>
 
 </tbody>
 </table>
@@ -270,6 +278,7 @@
 | 🎮 I want to build games | Game Developer | [Start Here →](./resources/game-developer.md) |
 | 🤖 I want to build AI systems | AI Developer | [Start Here →](./resources/ai-developer.md) |
 | 🤖 I want to build AI systems | AI Engineer | [Start Here →](./resources/ai-engineer.md) |
+| ⛓️ I want to build decentralized apps | Blockchain Developer | [Start Here →](./resources/blockchain-developer.md) |
 
 </div>
 
@@ -323,6 +332,7 @@ Full-Stack Res.        Web Dev Res.           SE Resources
     └── 🎮  game-developer.md         ← 1,500+ Game Developer resources
     └── 🤖  ai-developer.md           ← 1,500+ AI Developer resources
     └── 🤖  ai-engineer.md           ← 1,500+ AI Engineer resources
+    └── ⛓️  blockchain-developer.md     ← 1,200+ Blockchain Developer resources
 ```
 
 > 💡 **Adding resources?** Each file in `/resources/` follows the same table format.
