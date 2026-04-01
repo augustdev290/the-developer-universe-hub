@@ -32,7 +32,7 @@
 
 <!-- BADGE ROW 1 -->
 [![Resources](https://img.shields.io/badge/📦%20Resources-10000%2B-238636?style=for-the-badge&labelColor=0d1117)](https://github.com/augustdev290/the-developer-universe-hub)
-[![Collections](https://img.shields.io/badge/📂%20Collections-9-1f6feb?style=for-the-badge&labelColor=0d1117)](./resources/)
+[![Collections](https://img.shields.io/badge/📂%20Collections-10-1f6feb?style=for-the-badge&labelColor=0d1117)](./resources/)
 [![Stars](https://img.shields.io/github/stars/augustdev290/the-developer-universe-hub?style=for-the-badge&logo=github&logoColor=white&color=f0e040&labelColor=0d1117)](https://github.com/augustdev290/the-developer-universe-hub/stargazers)
 [![Forks](https://img.shields.io/github/forks/augustdev290/the-developer-universe-hub?style=for-the-badge&logo=git&logoColor=white&color=da3633&labelColor=0d1117)](https://github.com/augustdev290/the-developer-universe-hub/forks)
 
@@ -86,7 +86,7 @@
 <tbody>
 <tr>
 <td>🌌 <b>All-in-One Galaxy</b></td>
-<td>9 giant resource collections covering every developer domain — no more hunting across 50 tabs</td>
+<td>10 giant resource collections covering every developer domain — no more hunting across 50 tabs</td>
 </tr>
 <tr>
 <td>🆓 <b>Free-First Philosophy</b></td>
@@ -130,7 +130,7 @@
 </tr>
 <tr>
 <td align="center"><b>10,000+</b></td>
-<td align="center"><b>9</b></td>
+<td align="center"><b>10</b></td>
 <td align="center"><b>40+</b></td>
 <td align="center"><b>80%+</b></td>
 <td align="center"><b>30+</b></td>
@@ -228,10 +228,19 @@
 <td>🤖 <b>AI Developer</b></td>
 <td>everything an AI developer needs from machine learning fundamentals, deep learning, NLP, computer vision, model deployment, MLOps, and building production-ready AI systems and applications.</td>
 <td align="center"><b>1,500+</b></td>
-<td align="center"><b>25</b></td>
+<td align="center"><b>21</b></td>
 <td>All Levels · AI Engineers · ML Developers</td>
 <td align="center"><a href="./resources/ai-developer.md">📖 Browse →</a></td>
 </tr>
+<tr>
+<td>🤖 <b>AI Engineer</b></td>
+<td>everything an AI engineer needs from machine learning systems, deep learning, NLP, computer vision, scalable model deployment, MLOps, data pipelines, and building production-ready AI infrastructure.</td>
+<td align="center"><b>1,500+</b></td>
+<td align="center"><b>22</b></td>
+<td>All Levels · AI Engineers · ML Developers</td>
+<td align="center"><a href="./resources/ai-engineer.md">📖 Browse →</a></td>
+</tr>
+
 </tbody>
 </table>
 
@@ -260,6 +269,8 @@
 | 🔌 I want to design APIs & backend services | API Developer | [Start Here →](./resources/api-developer.md) |
 | 🎮 I want to build games | Game Developer | [Start Here →](./resources/game-developer.md) |
 | 🤖 I want to build AI systems | AI Developer | [Start Here →](./resources/ai-developer.md) |
+| 🤖 I want to build AI systems | AI Engineer | [Start Here →](./resources/ai-engineer.md) |
+
 </div>
 
 ---
@@ -311,6 +322,7 @@ Full-Stack Res.        Web Dev Res.           SE Resources
     └── 🔌  api-developer.md         ← 1,500+ API Developer resources
     └── 🎮  game-developer.md         ← 1,500+ Game Developer resources
     └── 🤖  ai-developer.md           ← 1,500+ AI Developer resources
+    └── 🤖  ai-engineer.md           ← 1,500+ AI Engineer resources
 ```
 
 > 💡 **Adding resources?** Each file in `/resources/` follows the same table format.
